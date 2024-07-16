@@ -18,4 +18,5 @@ Personalização do Catálogo
 O catálogo é totalmente customizável. Se você souber editar arquivos PHP e CSS, poderá modificar qualquer informação. Pedimos que respeite os nomes das classes para evitar erros na utilização da nossa biblioteca app.js, já que ela utiliza alguns nomes de classes específicos para leitura dos dados do catálogo.
 
 Para Desenvolvedores Web
+
 Se você é desenvolvedor web e deseja criar uma nova versão do catálogo para revenda ou disponibilizá-la aos nossos corretores, por favor, entre em contato com nosso suporte oficial pelo WhatsApp ou pelo e-mail suporte@hauzapp.com.br.
